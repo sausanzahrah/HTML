@@ -1,3 +1,4 @@
 # HTML
-A collection of deface scripts I've made
-Please kindly use it for ethical use only.
+Hello, human!
+
+I am a freshgrad of a reputable university in Indonesia.
